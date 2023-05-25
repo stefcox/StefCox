@@ -1,5 +1,5 @@
 ### Hi there 👋
-My name is Stef :grinning:  I am an Analyst Relations Manager and part of the CIM team. I'm a Mom of :three: : Cade :boy:, Sophie :girl:,  Napoleon :dog:. I am a foodie because I love good food :pizza: :sushi: :ramen: :cake:. I'm also a wino :wine_glass:  I'm excited to be part of he Hubber family! :octocat:
+My name is Stef :grinning:  I'm in Analyst Relations and part of the CIM team. I'm a Mom of :three: : Cade :boy:, Sophie :girl:,  Napoleon :dog:. I am a foodie because I love good food :pizza: :sushi: :ramen: :cake:. I'm also a wino :wine_glass:  I'm excited to be part of he Hubber family! :octocat:
 
 <!--
 **stefcox/StefCox** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
