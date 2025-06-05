@@ -1,5 +1,5 @@
 ### Hi there 👋
-My name is Stef :grinning:  I'm Senior Analyst Relations Manager supporting GHAS related analyst engagements, strategy, and evaluations. I'm a Mom of :three: : Cade :boy:, Sophie :girl:,  Napoleon :dog:. I'm a foodie because I love good food :pizza: :sushi: :ramen: :cake:. I'm also a wino :wine_glass:  I'm excited to be part of he Hubber family! :octocat:
+My name is Stef :grinning:  I'm Senior Analyst Relations Manager supporting GHAS related analyst engagements, strategy, and evaluations. I'm a Mom of :three: : Cade :boy:, Sophie :girl:,  Napoleon :dog:. I'm a foodie because I love good food :pizza: :sushi: :ramen: :cake:. I'm a Bay Area native and have lived in multiple cities in the Bay. I love challenges and learning new things. Lastly, I'm proud to be a Hubber. :octocat:
 
 <!--
 **stefcox/StefCox** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
