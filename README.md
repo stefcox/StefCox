@@ -1,5 +1,11 @@
-### Hi there 👋
-My name is Stef :grinning:  I'm Senior Analyst Relations Manager supporting GHAS related analyst engagements, strategy, and evaluations. I'm a Mom of :three: : Cade :boy:, Sophie :girl:,  Napoleon :dog:. I'm a foodie because I love good food :pizza: :sushi: :ramen: :cake:. I'm a Bay Area native and have lived in multiple cities in the Bay. I love challenges and learning new things. Lastly, I'm proud to be a Hubber. :octocat:
+### Hi there, I'm Stef 👋
+I’m a Senior Analyst Relations Manager at GitHub, where I lead analyst strategy, engagements, and evaluations for GitHub Advanced Security (GHAS). I share GitHub’s security strategy with analysts and bring their perspectives back to our product and business teams to help inform what we build and how we bring it to market.
+
+I’m passionate about GitHub’s vision for software that’s secure by design. To me, that means making security part of developers’ everyday workflows throughout the software lifecycle, from code to cloud.
+
+I’m a Bay Area native and a mom of three if you count Napoleon 🐶 alongside Cade and Sophie. I love to travel and find new favorite restaurants, both at home and abroad. If you have a spot you love in any city, I’d love to hear about it!
+
+I’m always up for a good challenge, love learning new things, and am proud to be a Hubber. :octocat:
 
 <!--
 **stefcox/StefCox** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
